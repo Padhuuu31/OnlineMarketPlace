@@ -7,7 +7,7 @@ A simple online marketplace website created using HTML and CSS.
 - CSS
 
 ## Features
-- Responsive navigation bar
+- Navigation bar
 - Product cards section
 - Why Choose Us section
 - Clean and simple UI design
@@ -16,12 +16,12 @@ A simple online marketplace website created using HTML and CSS.
 
 OnlineMarketPlace/
 │
-├── index.html
+├── home.html
 ├── style.css
 └── README.md
 
 ## How to Run
 
 1. Download or clone the repository.
-2. Open `index.html` in any browser.
+2. Open `home.html` in any browser.
 3. View the website.
